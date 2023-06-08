@@ -1,4 +1,4 @@
-OpenMP
+# OpenMP
 
 generator - bash-скрипт для генерации случайных матриц
 
