@@ -13,7 +13,6 @@ data.out - время выполнения (от 1 до 30 потоков)
 
 multMaxCuda.cu
 
-![cudaPic](https://github.com/ollul/matrix-release/assets/46057440/d1433000-3fb3-4476-a675-1dc4e78ba671)
-
+![image](https://github.com/ollul/matrix-release/assets/46057440/8976853c-f2a6-4bb2-bfb1-ea0f6c40e7ed)
 
 
